@@ -7,5 +7,16 @@ Currently implemented:
 
 * Slides using Beamer and a custom color theme
 
+My work set up is as follows (in case it doesn't build somewhere):
+
+- installed software 
+    + MiKTeX
+    + Pandoc (and therefore Python)
+    + Sublime Text 2
+        * MarkdownEditing
+        * AcademicMarkdown
+        * WordCount
+        * Citer
+
 ## Contact:
 Lachlan Deer, @lachlandeer
