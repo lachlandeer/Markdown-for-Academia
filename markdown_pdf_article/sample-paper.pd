@@ -1,0 +1,31 @@
+<h1 id="section-1">Section 1</h1>
+<h2 id="subsection-1.1">Subsection 1.1</h2>
+<p>Lorem <em>ipsum</em> <strong>dolor</strong> sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<h2 id="subsection-1.2">Subsection 1.2</h2>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+<ul>
+<li>one item</li>
+<li>two items</li>
+<li>three items</li>
+<li>four items</li>
+</ul>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+<p>You can enter LaTeX equations as inline math: such as <span class="math">(<em>e</em><sup><em>i</em><em>π</em></sup> + 1 = 0)</span> or:</p>
+<p><span class="math">$\mathbf{V}_1 \times \mathbf{V}_2 = \begin{vmatrix} \mathbf{i} &amp; \mathbf{j} &amp; \mathbf{k} \\ \frac{\partial X}{\partial u} &amp; \frac{\partial Y}{\partial u} &amp; 0 \\ \frac{\partial X}{\partial v} &amp; \frac{\partial Y}{\partial v} &amp; 0 \end{vmatrix}$</span></p>
+<h1 id="section-2">Section 2</h1>
+<h2 id="subsection-2.1">Subsection 2.1</h2>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo <a href="http://www.http://daringfireball.net">link</a>. You enter citations using @ and bibtex citation key, such as <span class="citation">Duck (2014)</span> if you want only the year in brackets, or <span class="citation">(Duck 2013)</span> for a normal ciation in author-date form within brackets.</p>
+<p>This is the code for an image. Much simpler than in LaTeX. But you can also use LaTeX code here. Just keep in mind that LaTeX code is only rendered when converted to PDF. Conversion to Word or html won’t pick it up.</p>
+<div class="figure">
+<img src="sample-image.jpg" title="beautiful cat" alt="image caption" />
+<p class="caption">image caption</p>
+</div>
+<h1 id="new-section-today">New Section Today</h1>
+<p>Hi there</p>
+<h1 id="references">References</h1>
+<p>The reference list is added here automatically by Pandoc:</p>
+<div class="references">
+<p>Duck, Donald. 2013. “Turning Nothing into Money.” <em>Money Transactions</em> 15: 205–246.</p>
+<p>———. 2014. “Turning Something Else into Money.” <em>Money Money Journal</em> 5: 101–141.</p>
+</div>
